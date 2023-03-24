@@ -1,5 +1,4 @@
 <?php
-
 /**
  * The template for displaying the footer
  *
@@ -13,12 +12,11 @@
  */
 
 ?>
-<footer id="site-footer" class="header-footer-group">
-	©BricoTips depuis 2023
-</footer><!-- #site-footer -->
+			<footer id="site-footer" class="header-footer-group">
+                ©BricoTips depuis 2022
+			</footer><!-- #site-footer -->
 
-<?php wp_footer(); ?>
+		<?php wp_footer(); ?>
 
-</body>
-
+	</body>
 </html>
